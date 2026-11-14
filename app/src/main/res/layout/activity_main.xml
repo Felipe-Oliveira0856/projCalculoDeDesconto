@@ -15,12 +15,12 @@
 
         <TextView
             android:layout_width="436dp"
-            android:layout_height="61dp"
+            android:layout_height="85dp"
             android:layout_weight="1"
             android:background="#3E3488"
+            android:gravity="center"
             android:text="Projeto Avaliativo - Programação de Dispositivos Móveis"
             android:textAlignment="center"
-            android:gravity="center"
             android:textColor="#FFFFFF"
             android:textSize="16sp"
             android:textStyle="bold" />
